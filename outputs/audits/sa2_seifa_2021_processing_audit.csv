@@ -1,0 +1,19 @@
+﻿check_name,value,status,notes
+source_file,D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs\seifa\Statistical_Area_Level_2_Indexes_SEIFA_2021.xlsx,info,ABS SA2 SEIFA workbook used.
+row_count,2472,info,Rows in processed SEIFA source table.
+unique_sa2_count,2472,info,Unique SA2 codes.
+missing_sa2_code,0,pass,SA2 code must not be missing.
+duplicate_sa2_rows,0,pass,SEIFA source table must remain one row per SA2.
+seifa_column_count,53,pass,Recognised SEIFA columns.
+irsd_score_non_missing,2349,info,Non-missing IRSD scores.
+irsd_score_missing,123,info,Missing IRSD scores; expected for excluded areas.
+irsad_score_non_missing,2349,info,Non-missing IRSAD scores.
+irsad_score_missing,123,info,Missing IRSAD scores; expected for excluded areas.
+ier_score_non_missing,2350,info,Non-missing IER scores.
+ier_score_missing,122,info,Missing IER scores; expected for excluded areas.
+ieo_score_non_missing,2362,info,Non-missing IEO scores.
+ieo_score_missing,110,info,Missing IEO scores; expected for excluded areas.
+irsd_selected_header_row,9,info,Selected IRSD parse candidate from Table 2.
+irsad_selected_header_row,9,info,Selected IRSAD parse candidate from Table 3.
+ier_selected_header_row,9,info,Selected IER parse candidate from Table 4.
+ieo_selected_header_row,9,info,Selected IEO parse candidate from Table 5.

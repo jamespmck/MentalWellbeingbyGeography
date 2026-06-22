@@ -1,0 +1,5 @@
+"action_type","status","n","total_size_mb"
+"move_file","source_missing_skipped","95","0"
+"move_directory","source_missing_skipped","1","0"
+"move_directory","moved","1","115.12479"
+"remove_empty_dirs","removed_empty_dirs_0","1","1500.445312"

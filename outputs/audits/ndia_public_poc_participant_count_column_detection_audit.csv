@@ -1,0 +1,5 @@
+﻿column_name,column_key,numeric_quality,score,sample_values,source_family,source_file,selected_count_column
+PrtcpntCnt,prtcpntcnt,0.9906551249262247,9.906551249262247,49 | 152 | 131 | 137 | 83 | 285,participants_by_sa2,participants_by_sa2__2026-03-31__participants_by_sa2__Participants_by_SA2_data.csv,True
+RprtDt,rprtdt,0.0,0.0,31MAR2026 | 31MAR2026 | 31MAR2026 | 31MAR2026 | 31MAR2026 | 31MAR2026,participants_by_sa2,participants_by_sa2__2026-03-31__participants_by_sa2__Participants_by_SA2_data.csv,False
+PrtcpntCnt,prtcpntcnt,0.9732241646381943,9.732241646381944,3176 | 85 | 2422 | 1289 | 574 | 2958,participants_by_sa3,participants_by_sa3__2026-03-31__participants_by_sa3__Participants_by_SA3_data.csv,True
+RprtDt,rprtdt,0.0,0.0,31MAR2026 | 31MAR2026 | 31MAR2026 | 31MAR2026 | 31MAR2026 | 31MAR2026,participants_by_sa3,participants_by_sa3__2026-03-31__participants_by_sa3__Participants_by_SA3_data.csv,False

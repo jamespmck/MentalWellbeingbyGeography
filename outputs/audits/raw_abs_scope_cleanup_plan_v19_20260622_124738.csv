@@ -1,0 +1,2 @@
+﻿"action_type","category","reason","source_path","destination_path","is_directory","size_mb","status"
+"archive_move","optional_sa1_area_file","Archive SA1 area file by request. Current active analysis is SA2 and above.","D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs\geography\SA1_2021_AUST.xlsx","D:\Good Measure\MentalWellbeingbyGeography\data\raw\_archive\abs_not_active_for_v01_scope\geography\SA1_2021_AUST.xlsx","False","4.867623","moved"

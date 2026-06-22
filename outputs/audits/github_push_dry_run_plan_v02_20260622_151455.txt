@@ -1,0 +1,19 @@
+﻿MentalWellbeingByGeography GitHub push dry-run plan
+ProjectRoot=D:\Good Measure\MentalWellbeingbyGeography
+RepoUrl=https://github.com/YOUR-USERNAME/YOUR-REPO.git
+Branch=main
+IncludeData=False
+
+Files/directories that would be staged:
+  .gitignore
+  README.md
+  scripts/
+  docs/
+  outputs/audits/
+
+Ignored by default:
+  data/raw/
+  data/processed/
+  outputs/logs/
+  outputs/archive/
+  large binary formats

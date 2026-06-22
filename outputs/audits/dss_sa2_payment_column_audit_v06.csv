@@ -1,0 +1,29 @@
+source_column_name,normalised_column_name,matched_concept,numeric_parse_rate,non_missing_count,numeric_total_selected_period,selected_as_payment_count_column,output_slug,sample_values
+ABSTUDY (Non-living allowance),abstudy_non_living_allowance,abstudy,1.0,2292,19259.0,1,abstudy_non_living_allowance,0 | 13 | 7 | 0 | 0 | 5 | 0 | 0
+ABSTUDY (Living allowance),abstudy_living_allowance,abstudy,1.0,2292,9537.0,1,abstudy_living_allowance,0 | 6 | 0 | 5 | 0 | 5 | 0 | 0
+Age Pension,age_pension,age_pension,1.0,2292,2470360.0,1,age_pension,516 | 727 | 1115 | 317 | 921 | 533 | 351 | 1025
+Wife Pension (Partner on Age Pension),wife_pension_partner_on_age_pension,age_pension,1.0,2292,0.0,1,wife_pension_partner_on_age_pension,0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Austudy,austudy,austudy,1.0,2292,32439.0,1,austudy,0 | 5 | 7 | 10 | 9 | 5 | 0 | 5
+Carer Allowance,carer_allowance,carer_allowance,1.0,2292,622498.0,1,carer_allowance,81 | 208 | 176 | 65 | 251 | 166 | 56 | 168
+Carer Allowance (Child Health Care Card only),carer_allowance_child_health_care_card_only,carer_allowance,1.0,2292,10144.0,1,carer_allowance_child_health_care_card_only,5 | 0 | 0 | 0 | 7 | 5 | 0 | 5
+Carer Payment,carer_payment,carer_payment,1.0,2292,300957.0,1,carer_payment,49 | 74 | 70 | 21 | 65 | 35 | 28 | 69
+Commonwealth Rent Assistance,commonwealth_rent_assistance,commonwealth_rent_assistance,1.0,2292,1416279.0,1,commonwealth_rent_assistance,163 | 345 | 728 | 287 | 339 | 223 | 122 | 561
+Commonwealth Seniors Health Card,commonwealth_seniors_health_card,commonwealth_seniors_health_card,1.0,2292,436786.0,1,commonwealth_seniors_health_card,135 | 93 | 137 | 61 | 282 | 128 | 58 | 141
+Disability Support Pension,disability_support_pension,disability_support_pension,1.0,2292,757308.0,1,disability_support_pension,140 | 304 | 416 | 137 | 199 | 156 | 116 | 318
+Wife Pension (Partner on Disability Support Pension),wife_pension_partner_on_disability_support_pension,disability_support_pension,1.0,2292,0.0,1,wife_pension_partner_on_disability_support_pension,0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Family Tax Benefit A,family_tax_benefit_a,family_tax_benefit,1.0,2292,1399549.0,1,family_tax_benefit_a,216 | 482 | 511 | 236 | 599 | 354 | 130 | 383
+Family Tax Benefit B,family_tax_benefit_b,family_tax_benefit,1.0,2292,1081808.0,1,family_tax_benefit_b,170 | 409 | 422 | 194 | 430 | 277 | 103 | 307
+Health Care Card,health_care_card,health_care_card,1.0,2292,1405608.0,1,health_care_card,174 | 368 | 460 | 203 | 409 | 307 | 107 | 294
+Newstart Allowance / Jobseeker Payment,newstart_allowance_jobseeker_payment,jobseeker,1.0,2292,937430.0,1,newstart_allowance_jobseeker_payment,140 | 285 | 376 | 141 | 208 | 157 | 92 | 254
+Low Income Card,low_income_card,low_income_card,1.0,2292,149165.0,1,low_income_card,12 | 17 | 40 | 23 | 28 | 20 | 23 | 28
+Parenting Payment Single,parenting_payment_single,parenting_payment,1.0,2292,234068.0,1,parenting_payment_single,38 | 113 | 106 | 44 | 89 | 65 | 23 | 73
+Parenting Payment Partnered,parenting_payment_partnered,parenting_payment,1.0,2292,75798.0,1,parenting_payment_partnered,5 | 19 | 18 | 10 | 17 | 13 | 6 | 21
+Pension Concession Card,pension_concession_card,pensioner_concession_card,1.0,2292,4345484.0,1,pension_concession_card,827 | 1387 | 1922 | 607 | 1423 | 888 | 579 | 1644
+Special Benefit,special_benefit,special_benefit,1.0,2292,11169.0,1,special_benefit,0 | 0 | 5 | 0 | 0 | 0 | 0 | 0
+Youth Allowance (student and apprentice),youth_allowance_student_and_apprentice,youth_allowance,1.0,2292,145450.0,1,youth_allowance_student_and_apprentice,6 | 13 | 26 | 9 | 25 | 15 | 0 | 12
+Youth Allowance (other),youth_allowance_other,youth_allowance,1.0,2292,90835.0,1,youth_allowance_other,14 | 36 | 40 | 11 | 11 | 18 | 5 | 26
+_dss_reference_period,dss_reference_period,,1.0,2292,3.7550221056e+18,0,,2021-12-01 | 2021-12-01 | 2021-12-01 | 2021-12-01 | 2021-12-01 | 2021-12-01 | 2021-12-01 | 2021-12-01
+Partner Allowance,partner_allowance,,1.0,2292,0.0,0,,0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Sickness Allowance,sickness_allowance,,1.0,2292,0.0,0,,0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Widow Allowance,widow_allowance,,1.0,2292,0.0,0,,0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+sa2_name_2016,sa2_name_2016,,0.0,0,,0,,Braidwood | Karabar | Queanbeyan | Queanbeyan - East | Queanbeyan Region | Queanbeyan West - Jerrabomberra | Bombala | Cooma

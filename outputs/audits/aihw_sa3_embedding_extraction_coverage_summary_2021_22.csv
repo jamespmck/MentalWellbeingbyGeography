@@ -1,0 +1,2 @@
+﻿run_timestamp_utc,sa3_targets_requested,years_requested,region_year_requests,region_years_successfully_extracted,region_years_successfully_extracted_no_profile_rows,failed_region_year_requests,sa3_regions_with_any_successful_extraction,long_format_records_retrieved,selected_measure_rows,source_method,notes
+2026-06-18T03:07:51.987190+00:00,340,2021-22,340,335,5,0,335,59074,335,AIHW official page embedded Tableau API v3 via Playwright,Raw formatted source values retained. n.p./n.a. converted to missing numeric values and publication status retained.

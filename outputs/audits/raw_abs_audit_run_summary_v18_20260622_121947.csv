@@ -1,0 +1,2 @@
+run_timestamp,project_root,target_dir,target_exists,file_count,folder_count,total_size_bytes,total_size_mb,duplicate_groups,duplicate_file_rows,workbook_files,zip_files,html_files,cleanup_candidate_rows,status,sibling_abs_candidates
+20260622_121947,D:\Good Measure\MentalWellbeingbyGeography,D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs,1,2814,35,1573330944,1500.445312,89,183,119,8,2454,2808,pass_audit_written,

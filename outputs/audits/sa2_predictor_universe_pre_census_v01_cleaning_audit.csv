@@ -1,0 +1,10 @@
+﻿check_name,value,status,notes
+row_count_before,2472,info,Rows before cleaning.
+row_count_after,2472,pass,Rows after cleaning should match input.
+column_count_before,115,info,Columns before cleaning.
+column_count_after,122,info,Columns after cleaning; availability flags may increase this.
+duplicate_sa2_rows,0,pass,Cleaned table must remain one row per SA2.
+missing_sa2_code,0,pass,SA2 code must not be missing.
+remaining_nsmhw_unnamed_columns,0,pass,NSMHW columns should have explicit names.
+nsmhw_available_sa2_count,2342,info,SA2s with at least one public NSMHW modelled estimate.
+nsmhw_unavailable_sa2_count,130,info,SA2s retained in spine but without public NSMHW modelled estimates.

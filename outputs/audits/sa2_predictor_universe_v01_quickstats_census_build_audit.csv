@@ -1,0 +1,9 @@
+﻿check_name,value,status,notes
+master_rows_before_join,2472,pass,Expected 2472 SA2 rows from pre-Census master.
+quickstats_source_rows,2393,pass,Rows in QuickStats SA2 source table.
+master_rows_after_join,2472,pass,Join must preserve one row per SA2.
+duplicate_sa2_rows_after_join,0,pass,No duplicate SA2 rows allowed.
+quickstats_matched_sa2_rows,2393,review,SA2 rows with parsed QuickStats values.
+quickstats_unmatched_sa2_rows,79,review,SA2 rows retained in master without parsed QuickStats values.
+quickstats_variable_columns,1673,pass,Number of Census QuickStats variable columns added.
+final_column_count,1796,info,Final integrated master column count.

@@ -1,0 +1,6 @@
+﻿check_name,value,status,notes
+master_v03_exists,D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v03_with_ndia_public_poc_context.parquet,pass,
+master_v03_row_count,2472,pass,Expected current SA2 spine row count.
+master_v03_column_count,1852,info,
+duplicate_sa2_rows,0,pass,
+ndia_poc_column_count,20,pass,NDIA POC context columns should be present from previous processor.

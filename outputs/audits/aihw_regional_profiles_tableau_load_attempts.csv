@@ -1,0 +1,3 @@
+﻿attempt_index,workbook_url,status,worksheet_count,notes
+1,https://viz.aihw.gov.au/t/Public/views/MHOR_regional_profiles_2324_24022026/Overview?:showVizHome=no,fail,0,'TableauScraper' object has no attribute 'load'
+2,https://viz.aihw.gov.au/t/Public/views/MHOR_regional_profiles_2324_24022026/Overview,fail,0,'TableauScraper' object has no attribute 'load'

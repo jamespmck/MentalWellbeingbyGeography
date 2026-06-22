@@ -1,0 +1,20 @@
+freeze_version,source_family,active_raw_file_count,active_raw_file_extensions,active_raw_size_mb,v13_register_rows,v13_candidate_link_rows,v13_candidate_downloads,v14_validation_status,detected_geographies,freeze_status,recommended_next_action
+v15,abs_census_2021_sa2,1,.zip,40.331534,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,abs_geography_2021,13,.csv;.xlsx,22.745203,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,abs_homelessness,11,.html;.xls;.xlsx,1.989029,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,abs_homelessness_census,0,,0.0,3,8,8,pass_has_raw_files,STATE_TERRITORY;unknown,ready_for_native_geography_processing_or_context_hold,inspect_abs_homelessness_workbook_tables;process_abs_homelessness_schema_and_native_geography
+v15,abs_homelessness_census_tablebuilder,0,,0.0,1,1,1,pass_has_raw_files,SA2;SA3;SA4;STATE_TERRITORY;unknown,ready_for_native_geography_processing_or_context_hold,manual_access_or_tablebuilder_context
+v15,abs_nsmhw_sa2_modelled_estimates,6,.xlsx,1.781485,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,abs_seifa_2021,5,.xlsx;.zip,39.789882,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,aedc_child_development,7,.html;.xlsx,0.419962,3,4,4,pass_has_raw_files,LGA;SA2;SA3;SA4;STATE_TERRITORY;unknown,ready_for_native_geography_processing_or_context_hold,inspect_aedc_geography_and_release_scope
+v15,aihw_mbs_primary_care_geography,4,.download;.html;.pdf,3.862295,1,3,3,pass_has_raw_files,PHN;SA3;STATE_TERRITORY;unknown,ready_for_native_geography_processing_or_context_hold,inspect_mbs_local_area_report_and_downloadable_tables
+v15,aihw_mental_health_data_tables,2,.download;.html,0.34156,1,1,1,pass_has_raw_files,STATE_TERRITORY,ready_for_native_geography_processing_or_context_hold,raw_inventory_then_relevance_filter
+v15,aihw_mental_health_regional_activity,40,;.csv;.html;.txt;.xlsx;.zip,60.702885,1,7,7,pass_has_raw_files,PHN;SA3;SA4;STATE_TERRITORY;unknown,ready_for_native_geography_processing_or_context_hold,unzip_and_inventory_aihw_mental_health_tables
+v15,aihw_regional_profiles_sa3,340,.csv,276.517757,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,aihw_specialist_homelessness_services,4,.download;.html;.pdf,17.698555,1,3,3,pass_has_raw_files,STATE_TERRITORY;unknown,ready_for_native_geography_processing_or_context_hold,inspect_shs_public_tables_for_geography_or_hold_report_context
+v15,dss,1,.csv,4.115101,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,geography_bridges,1,.xlsx,0.132574,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,ndis_service_area_candidate,17,.csv;.html;.xlsx,47.16275,1,0,0,pass_has_raw_files,STATE_TERRITORY,ready_for_native_geography_processing_or_context_hold,hold_until_true_ndis_service_area_key_identified
+v15,phidu_official_lga_phn_context,0,,0.0,0,0,0,pass_context_tables_created,LGA;PHN,ready_for_scoped_lga_phn_context_masters_after_manual_review,retain PHIDU native LGA and PHN context tables; do not join directly to SA2
+v15,phidu_raw,3,.xlsx,103.008352,0,0,0,,,active_raw_files_present_not_in_v14_summary,
+v15,state_health_geography_inventory,2,.html;.pdf,21.928626,2,1,1,pass_has_raw_files,HHS_LHD;STATE_TERRITORY,ready_for_native_geography_processing_or_context_hold,hold_state_specific_boundary_context_only

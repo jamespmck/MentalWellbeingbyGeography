@@ -1,0 +1,57 @@
+{
+  "ok": true,
+  "publishedSheetsInfo": [
+    {
+      "name": "Overview",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "Download",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "APC",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "CMHC",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "ED",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "MBS",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "PBS",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "Compare Overview",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "Compare Timeseries",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "Compare Age group",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "Technical notes 1",
+      "sheetType": "dashboard"
+    },
+    {
+      "name": "Technical notes 2",
+      "sheetType": "dashboard"
+    }
+  ],
+  "activeSheet": {
+    "name": "Overview",
+    "sheetType": "dashboard"
+  }
+}

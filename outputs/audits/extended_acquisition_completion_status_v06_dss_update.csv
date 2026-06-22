@@ -1,0 +1,2 @@
+source_family,status,master_file,selected_reference_period,notes
+dss_social_security_sa2,integrated_context_candidate,D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v06_with_dss_sa2_context.parquet,2021-12-01,DSS selected payment-recipient counts integrated after allocation from SA2 2016 to SA2 2021. Counts require denominators or population controls.

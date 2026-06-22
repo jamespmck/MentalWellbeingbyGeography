@@ -1,0 +1,5 @@
+folder_within_target,file_count,total_size_bytes,total_size_mb,file_types,source_hints,cleanup_actions
+census_2021_gcp_sa2,1,42290679,40.331534,.zip,abs_census_quickstats,keep_or_extract_after_member_review
+geography,13,23850074,22.745203,.csv;.xlsx,abs_geography_bridge;abs_geography_bridge;abs_remoteness;unknown,keep_pending_schema_inspection
+nsmhw,6,1868023,1.781486,.xlsx,unknown,keep_pending_schema_inspection
+seifa,5,41722715,39.789882,.xlsx;.zip,abs_geography_bridge;abs_seifa;abs_seifa,keep_or_extract_after_member_review;keep_pending_schema_inspection

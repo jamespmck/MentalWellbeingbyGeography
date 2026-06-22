@@ -1,0 +1,3 @@
+﻿geography,context_table_created,context_rows,context_columns,unique_context_keys,extractable_priority_sheets,minimum_target_coverage_threshold,recommended_action,notes
+LGA,1,442,84,442,13,0.65,candidate_higher_level_context_join_after_manual_review,Higher-level context only. Joining to SA2 will repeat values across SA2s assigned to the same LGA/PHN. Use grouped CV and do not interpret as direct SA2 measurement.
+PHN,1,31,115,31,18,0.85,candidate_higher_level_context_join_after_manual_review,Higher-level context only. Joining to SA2 will repeat values across SA2s assigned to the same LGA/PHN. Use grouped CV and do not interpret as direct SA2 measurement.

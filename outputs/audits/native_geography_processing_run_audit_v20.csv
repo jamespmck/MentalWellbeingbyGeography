@@ -1,0 +1,9 @@
+metric,value
+source_records_found,457
+processed_copy_audit_rows,12
+raw_extraction_audit_rows,947
+total_audit_rows,959
+processed_native_table_rows,887
+failed_rows,0
+unknown_review_tables,103
+native_table_index_rows,478

@@ -1,0 +1,30 @@
+column_name,normalised_column_name,dtype,non_missing_count,non_missing_pct,sample_values
+date,date,str,38964,100.0,2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03
+sa2_5digitcode_2016,sa2_5digitcode_2016,int64,38964,100.0,11007 | 11008 | 11009 | 11010 | 11011 | 11012 | 11013 | 11014
+sa2_name_2016,sa2_name_2016,str,38964,100.0,Braidwood | Karabar | Queanbeyan | Queanbeyan - East | Queanbeyan Region | Queanbeyan West - Jerrabomberra | Bombala | Cooma
+ABSTUDY (Living allowance),abstudy_living_allowance,int64,38964,100.0,0 | 0 | 0 | 5 | 5 | 0 | 0 | 0
+ABSTUDY (Non-living allowance),abstudy_non_living_allowance,int64,38964,100.0,5 | 13 | 12 | 7 | 0 | 8 | 5 | 5
+Age Pension,age_pension,int64,38964,100.0,487 | 733 | 1139 | 294 | 817 | 534 | 351 | 1073
+Austudy,austudy,int64,38964,100.0,5 | 5 | 9 | 8 | 16 | 5 | 0 | 0
+Carer Allowance,carer_allowance,int64,38964,100.0,76 | 205 | 197 | 63 | 243 | 179 | 62 | 172
+Carer Allowance (Child Health Care Card only),carer_allowance_child_health_care_card_only,int64,38964,100.0,5 | 8 | 0 | 0 | 7 | 5 | 5 | 0
+Carer Payment,carer_payment,int64,38964,100.0,42 | 59 | 70 | 21 | 47 | 43 | 30 | 74
+Commonwealth Seniors Health Card,commonwealth_seniors_health_card,int64,38964,100.0,113 | 87 | 122 | 41 | 252 | 117 | 57 | 128
+Disability Support Pension,disability_support_pension,int64,38964,100.0,147 | 300 | 421 | 139 | 181 | 166 | 119 | 346
+Family Tax Benefit A,family_tax_benefit_a,int64,38964,100.0,203 | 472 | 565 | 222 | 483 | 368 | 139 | 443
+Family Tax Benefit B,family_tax_benefit_b,int64,38964,100.0,165 | 401 | 481 | 187 | 373 | 291 | 109 | 369
+Health Care Card,health_care_card,int64,38964,100.0,172 | 365 | 425 | 166 | 364 | 270 | 125 | 379
+Newstart Allowance / Jobseeker Payment,newstart_allowance_jobseeker_payment,int64,38964,100.0,106 | 189 | 223 | 86 | 123 | 88 | 75 | 233
+Low Income Card,low_income_card,int64,38964,100.0,23 | 43 | 63 | 32 | 49 | 35 | 22 | 44
+Parenting Payment Partnered,parenting_payment_partnered,int64,38964,100.0,10 | 16 | 15 | 8 | 12 | 10 | 5 | 29
+Parenting Payment Single,parenting_payment_single,int64,38964,100.0,32 | 121 | 118 | 42 | 72 | 58 | 27 | 106
+Pension Concession Card,pension_concession_card,int64,38964,100.0,806 | 1342 | 1911 | 559 | 1240 | 873 | 587 | 1773
+Special Benefit,special_benefit,int64,38964,100.0,0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Youth Allowance (other),youth_allowance_other,int64,38964,100.0,7 | 27 | 29 | 7 | 12 | 12 | 5 | 44
+Youth Allowance (student and apprentice),youth_allowance_student_and_apprentice,int64,38964,100.0,8 | 18 | 31 | 8 | 29 | 14 | 0 | 18
+Commonwealth Rent Assistance,commonwealth_rent_assistance,int64,38964,100.0,143 | 332 | 679 | 239 | 258 | 198 | 117 | 614
+Partner Allowance,partner_allowance,int64,38964,100.0,0 | 0 | 0 | 0 | 0 | 0 | 5 | 5
+Sickness Allowance,sickness_allowance,int64,38964,100.0,5 | 0 | 5 | 0 | 5 | 5 | 5 | 0
+Widow Allowance,widow_allowance,int64,38964,100.0,0 | 0 | 0 | 0 | 0 | 0 | 5 | 0
+Wife Pension (Partner on Age Pension),wife_pension_partner_on_age_pension,int64,38964,100.0,5 | 0 | 0 | 0 | 5 | 0 | 0 | 5
+Wife Pension (Partner on Disability Support Pension),wife_pension_partner_on_disability_support_pension,int64,38964,100.0,5 | 0 | 0 | 0 | 0 | 0 | 5 | 5

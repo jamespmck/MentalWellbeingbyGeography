@@ -1,0 +1,15 @@
+﻿layer,check_name,value,status,notes
+phn_2017,bridge_available,1,pass,
+phn_2017,full_bridge_rows,2507,info,
+phn_2017,dominant_bridge_rows,2454,info,
+phn_2017,unique_sa2_in_dominant_bridge,2454,info,
+phn_2017,master_sa2_matched,2454,pass,Matched SA2 codes in master.
+phn_2017,master_sa2_unmatched,18,review,"Unmatched are likely no usual address, migratory/offshore/shipping or special areas. Review unmatched audit."
+phn_2017,duplicate_sa2_in_dominant_bridge,0,pass,Dominant bridge must have one row per SA2.
+lga_2021_area,bridge_available,1,pass,
+lga_2021_area,full_bridge_rows,3096,info,
+lga_2021_area,dominant_bridge_rows,2472,info,
+lga_2021_area,unique_sa2_in_dominant_bridge,2472,info,
+lga_2021_area,master_sa2_matched,2472,pass,Matched SA2 codes in master.
+lga_2021_area,master_sa2_unmatched,0,review,"Unmatched are likely no usual address, migratory/offshore/shipping or special areas. Review unmatched audit."
+lga_2021_area,duplicate_sa2_in_dominant_bridge,0,pass,Dominant bridge must have one row per SA2.

@@ -1,0 +1,2 @@
+column_name,normalised_column_name,parse_rate_sample,period_count_sample,period_min_sample,period_max_sample,sample_values
+date,date,1.0,11,2019-03-01,2021-09-01,2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03

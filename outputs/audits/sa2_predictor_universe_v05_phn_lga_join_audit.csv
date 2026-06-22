@@ -1,0 +1,10 @@
+﻿check_name,value,status,notes
+base_master_file,D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v04_with_ndia_phn_lga_context.parquet,info,
+master_rows_before_join,2472,pass,Expected SA2 row count.
+master_columns_before_join,1852,info,
+joined_layers,"phn_2017, lga_2021_area",pass,
+master_rows_after_join,2472,pass,Join must not change SA2 row count.
+master_columns_after_join,1862,info,
+duplicate_sa2_rows_after_join,0,pass,
+sa2_rows_with_phn_2017,2454,info,
+sa2_rows_with_lga_2021,2472,info,
