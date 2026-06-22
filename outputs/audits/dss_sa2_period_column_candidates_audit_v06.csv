@@ -1,2 +1,3 @@
-column_name,normalised_column_name,parse_rate_sample,period_count_sample,period_min_sample,period_max_sample,sample_values
-date,date,1.0,11,2019-03-01,2021-09-01,2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03 | 2019-03
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b9a62a86643cac35f51d6cf76897ae7d00d95286d0eeab55278a6f5cd69c51
+size 282

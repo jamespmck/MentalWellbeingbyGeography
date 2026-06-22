@@ -1,0 +1,157 @@
+[2026-06-21 15:20:24] [INFO] PHIDU join-candidate validation v10
+[2026-06-21 15:20:24] [INFO] Project root: D:\Good Measure\MentalWellbeingbyGeography
+[2026-06-21 15:20:24] [INFO] Log path: D:\Good Measure\MentalWellbeingbyGeography\outputs\logs\20_validate_phidu_join_candidates_20260621_152024.log
+[2026-06-21 15:20:24] [INFO] Reading base master: D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v08_with_clean_housing_context.parquet
+[2026-06-21 15:20:25] [INFO] Base master rows: 2,472; columns: 1,921
+[2026-06-21 15:20:25] [INFO] Master key availability: sa2_code_2021=2472, phn_2017_code=32, phn_2017_name_key=31, dominant_lga_code_2021=463, dominant_lga_name_2021_key=463
+[2026-06-21 15:20:25] [INFO] Read PHIDU readiness audit: 570 rows; 10 columns
+[2026-06-21 15:20:25] [INFO] Validation targets selected: 68
+[2026-06-21 15:20:25] [INFO] Target categories:
+validation_category
+phn_candidate    30
+lga_candidate    30
+sa2_candidate     8
+[2026-06-21 15:20:25] [INFO] Validating target 1/68: 01_pha_health_status_disability_carers_deaths_health_status_disease_prevention_disability_carers_and_deaths.xlsx :: PHAs [sa2_candidate]
+[2026-06-21 15:20:29] [DEBUG] Header guess for 01_pha_health_status_disability_carers_deaths_health_status_disease_prevention_disability_carers_and_deaths.xlsx::PHAs: header=2; score=13; rows=1183; cols=4
+[2026-06-21 15:20:29] [INFO] Validating target 2/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: PHAs [sa2_candidate]
+[2026-06-21 15:21:19] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::PHAs: header=2; score=13; rows=1183; cols=4
+[2026-06-21 15:21:19] [INFO] Validating target 3/68: 04_pha_health_welfare_services_use_and_provision_of_health_and_welfare_services.xlsx :: PHAs [sa2_candidate]
+[2026-06-21 15:21:23] [DEBUG] Header guess for 04_pha_health_welfare_services_use_and_provision_of_health_and_welfare_services.xlsx::PHAs: header=2; score=13; rows=1183; cols=4
+[2026-06-21 15:21:23] [INFO] Validating target 4/68: 05_pha_demographic_social_demographic_and_social_indicators.xlsx :: PHAs [sa2_candidate]
+[2026-06-21 15:21:28] [DEBUG] Header guess for 05_pha_demographic_social_demographic_and_social_indicators.xlsx::PHAs: header=2; score=13; rows=1183; cols=4
+[2026-06-21 15:21:28] [INFO] Validating target 5/68: 01_pha_health_status_disability_carers_deaths_health_status_disease_prevention_disability_carers_and_deaths.xlsx :: __workbook_summary__ [sa2_candidate]
+[2026-06-21 15:21:31] [INFO] Validating target 6/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: __workbook_summary__ [sa2_candidate]
+[2026-06-21 15:22:33] [INFO] Validating target 7/68: 04_pha_health_welfare_services_use_and_provision_of_health_and_welfare_services.xlsx :: __workbook_summary__ [sa2_candidate]
+[2026-06-21 15:22:38] [INFO] Validating target 8/68: 05_pha_demographic_social_demographic_and_social_indicators.xlsx :: __workbook_summary__ [sa2_candidate]
+[2026-06-21 15:22:42] [INFO] Validating target 9/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: NDIS_disability [phn_candidate]
+[2026-06-21 15:23:45] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::NDIS_disability: header=2; score=121; rows=1291; cols=38
+[2026-06-21 15:23:45] [INFO] Validating target 10/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: ED_mental_disorders_age [phn_candidate]
+[2026-06-21 15:24:45] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::ED_mental_disorders_age: header=2; score=83; rows=1291; cols=26
+[2026-06-21 15:24:45] [INFO] Validating target 11/68: 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx :: NDIS_disability [phn_candidate]
+[2026-06-21 15:24:53] [DEBUG] Header guess for 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx::NDIS_disability: header=2; score=118; rows=288; cols=38
+[2026-06-21 15:24:53] [INFO] Validating target 12/68: 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx :: ED_mental_disorders_age [phn_candidate]
+[2026-06-21 15:25:00] [DEBUG] Header guess for 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx::ED_mental_disorders_age: header=2; score=80; rows=288; cols=26
+[2026-06-21 15:25:00] [INFO] Validating target 13/68: 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx :: ED_mental_age [phn_candidate]
+[2026-06-21 15:25:04] [DEBUG] Header guess for 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx::ED_mental_age: header=2; score=44; rows=541; cols=14
+[2026-06-21 15:25:04] [INFO] Validating target 14/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Aboriginal_persons [phn_candidate]
+[2026-06-21 15:26:00] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Aboriginal_persons: header=2; score=64; rows=1291; cols=20
+[2026-06-21 15:26:00] [INFO] Validating target 15/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Estimates_mental_health_persons [phn_candidate]
+[2026-06-21 15:27:04] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Estimates_mental_health_persons: header=2; score=208; rows=1291; cols=66
+[2026-06-21 15:27:04] [INFO] Validating target 16/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Admissions_prevent_diag_total [phn_candidate]
+[2026-06-21 15:28:00] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Admissions_prevent_diag_total: header=2; score=96; rows=1291; cols=30
+[2026-06-21 15:28:00] [INFO] Validating target 17/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: ED_total_sex [phn_candidate]
+[2026-06-21 15:28:56] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::ED_total_sex: header=2; score=44; rows=1291; cols=14
+[2026-06-21 15:28:56] [INFO] Validating target 18/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: ED_total_age_sex [phn_candidate]
+[2026-06-21 15:29:59] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::ED_total_age_sex: header=2; score=232; rows=1291; cols=74
+[2026-06-21 15:29:59] [INFO] Validating target 19/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: ED_total_triage_category [phn_candidate]
+[2026-06-21 15:30:54] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::ED_total_triage_category: header=2; score=83; rows=1291; cols=26
+[2026-06-21 15:30:54] [INFO] Validating target 20/68: 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx :: Admissions_prevent_diag_total [phn_candidate]
+[2026-06-21 15:31:01] [DEBUG] Header guess for 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx::Admissions_prevent_diag_total: header=2; score=93; rows=288; cols=30
+[2026-06-21 15:31:01] [INFO] Validating target 21/68: 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx :: ED_total_sex [phn_candidate]
+[2026-06-21 15:31:08] [DEBUG] Header guess for 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx::ED_total_sex: header=2; score=41; rows=288; cols=14
+[2026-06-21 15:31:08] [INFO] Validating target 22/68: 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx :: ED_total_age_sex [phn_candidate]
+[2026-06-21 15:31:17] [DEBUG] Header guess for 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx::ED_total_age_sex: header=2; score=229; rows=288; cols=74
+[2026-06-21 15:31:17] [INFO] Validating target 23/68: 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx :: ED_total_triage_category [phn_candidate]
+[2026-06-21 15:31:24] [DEBUG] Header guess for 06_phn_socioeconomic_disadvantage_socioeconomic_disadvantage_of_area_within_primary_health_networks_phns_data_xlsx.xlsx::ED_total_triage_category: header=2; score=80; rows=288; cols=26
+[2026-06-21 15:31:24] [INFO] Validating target 24/68: 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx :: Admissions_total_prev_age [phn_candidate]
+[2026-06-21 15:31:29] [DEBUG] Header guess for 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx::Admissions_total_prev_age: header=2; score=83; rows=541; cols=26
+[2026-06-21 15:31:29] [INFO] Validating target 25/68: 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx :: ED_total_triage_category [phn_candidate]
+[2026-06-21 15:31:34] [DEBUG] Header guess for 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx::ED_total_triage_category: header=2; score=57; rows=541; cols=18
+[2026-06-21 15:31:34] [INFO] Validating target 26/68: 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx :: ED_principal_diag_total [phn_candidate]
+[2026-06-21 15:31:40] [DEBUG] Header guess for 07_phn_first_nations_aboriginal_torres_strait_islander_data_by_primary_health_network_incl_component_iares_xlsx.xlsx::ED_principal_diag_total: header=2; score=121; rows=541; cols=38
+[2026-06-21 15:31:40] [INFO] Validating target 27/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Aboriginal_males [phn_candidate]
+[2026-06-21 15:32:36] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Aboriginal_males: header=2; score=64; rows=1291; cols=20
+[2026-06-21 15:32:36] [INFO] Validating target 28/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Aboriginal_females [phn_candidate]
+[2026-06-21 15:33:30] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Aboriginal_females: header=2; score=64; rows=1291; cols=20
+[2026-06-21 15:33:30] [INFO] Validating target 29/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Education [phn_candidate]
+[2026-06-21 15:34:28] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Education: header=2; score=160; rows=1293; cols=50
+[2026-06-21 15:34:28] [INFO] Validating target 30/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Housing_Transport [phn_candidate]
+[2026-06-21 15:35:27] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Housing_Transport: header=2; score=160; rows=1292; cols=50
+[2026-06-21 15:35:27] [INFO] Validating target 31/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Homelessness [phn_candidate]
+[2026-06-21 15:36:19] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Homelessness: header=2; score=19; rows=1291; cols=6
+[2026-06-21 15:36:19] [INFO] Validating target 32/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Income_support [phn_candidate]
+[2026-06-21 15:37:17] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Income_support: header=2; score=131; rows=1292; cols=41
+[2026-06-21 15:37:17] [INFO] Validating target 33/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Estimates_mental_health_males [phn_candidate]
+[2026-06-21 15:38:20] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Estimates_mental_health_males: header=2; score=208; rows=1291; cols=66
+[2026-06-21 15:38:20] [INFO] Validating target 34/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Estimates_mental_health_females [phn_candidate]
+[2026-06-21 15:39:23] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Estimates_mental_health_females: header=2; score=208; rows=1291; cols=66
+[2026-06-21 15:39:23] [INFO] Validating target 35/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Estimates_self_assessed_health [phn_candidate]
+[2026-06-21 15:40:16] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Estimates_self_assessed_health: header=2; score=32; rows=1291; cols=10
+[2026-06-21 15:40:16] [INFO] Validating target 36/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Estimates_risk_factors_adults [phn_candidate]
+[2026-06-21 15:41:36] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Estimates_risk_factors_adults: header=2; score=592; rows=1291; cols=194
+[2026-06-21 15:41:36] [INFO] Validating target 37/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Estimates_risk_factors_children [phn_candidate]
+[2026-06-21 15:42:33] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Estimates_risk_factors_children: header=2; score=160; rows=1291; cols=50
+[2026-06-21 15:42:33] [INFO] Validating target 38/68: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx :: Census_disability [phn_candidate]
+[2026-06-21 15:43:28] [DEBUG] Header guess for 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx::Census_disability: header=2; score=73; rows=1291; cols=23
+[2026-06-21 15:43:28] [INFO] Validating target 39/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_mental_disorders_age [lga_candidate]
+[2026-06-21 15:43:37] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_mental_disorders_age: header=2; score=83; rows=665; cols=27
+[2026-06-21 15:43:37] [INFO] Validating target 40/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Aboriginal_persons [lga_candidate]
+[2026-06-21 15:43:45] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Aboriginal_persons: header=2; score=61; rows=663; cols=20
+[2026-06-21 15:43:45] [INFO] Validating target 41/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Admissions_prevent_diag_total [lga_candidate]
+[2026-06-21 15:43:54] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Admissions_prevent_diag_total: header=2; score=96; rows=665; cols=31
+[2026-06-21 15:43:54] [INFO] Validating target 42/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_total_sex [lga_candidate]
+[2026-06-21 15:44:03] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_total_sex: header=2; score=45; rows=665; cols=15
+[2026-06-21 15:44:03] [INFO] Validating target 43/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_total_age_sex [lga_candidate]
+[2026-06-21 15:44:16] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_total_age_sex: header=2; score=232; rows=665; cols=75
+[2026-06-21 15:44:16] [INFO] Validating target 44/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_total_triage_category [lga_candidate]
+[2026-06-21 15:44:24] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_total_triage_category: header=2; score=83; rows=665; cols=27
+[2026-06-21 15:44:24] [INFO] Validating target 45/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Aboriginal_males [lga_candidate]
+[2026-06-21 15:44:33] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Aboriginal_males: header=2; score=61; rows=663; cols=20
+[2026-06-21 15:44:33] [INFO] Validating target 46/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Aboriginal_females [lga_candidate]
+[2026-06-21 15:44:41] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Aboriginal_females: header=2; score=61; rows=663; cols=20
+[2026-06-21 15:44:41] [INFO] Validating target 47/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Education [lga_candidate]
+[2026-06-21 15:44:52] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Education: header=2; score=160; rows=667; cols=51
+[2026-06-21 15:44:52] [INFO] Validating target 48/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Housing_Transport [lga_candidate]
+[2026-06-21 15:45:03] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Housing_Transport: header=2; score=157; rows=664; cols=50
+[2026-06-21 15:45:03] [INFO] Validating target 49/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Homelessness [lga_candidate]
+[2026-06-21 15:45:10] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Homelessness: header=2; score=16; rows=663; cols=6
+[2026-06-21 15:45:10] [INFO] Validating target 50/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Income_support [lga_candidate]
+[2026-06-21 15:45:21] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Income_support: header=2; score=128; rows=665; cols=41
+[2026-06-21 15:45:21] [INFO] Validating target 51/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Estimates_self_assessed_health [lga_candidate]
+[2026-06-21 15:45:29] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Estimates_self_assessed_health: header=2; score=32; rows=665; cols=11
+[2026-06-21 15:45:29] [INFO] Validating target 52/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Estimates_risk_factors_adults [lga_candidate]
+[2026-06-21 15:45:51] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Estimates_risk_factors_adults: header=2; score=592; rows=665; cols=195
+[2026-06-21 15:45:51] [INFO] Validating target 53/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Estimates_risk_factors_children [lga_candidate]
+[2026-06-21 15:46:02] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Estimates_risk_factors_children: header=2; score=160; rows=665; cols=51
+[2026-06-21 15:46:02] [INFO] Validating target 54/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Census_disability [lga_candidate]
+[2026-06-21 15:46:11] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Census_disability: header=2; score=70; rows=663; cols=23
+[2026-06-21 15:46:11] [INFO] Validating target 55/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Aged_care_places [lga_candidate]
+[2026-06-21 15:46:18] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Aged_care_places: header=2; score=13; rows=664; cols=5
+[2026-06-21 15:46:18] [INFO] Validating target 56/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: CMHCS_by_sex [lga_candidate]
+[2026-06-21 15:46:26] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::CMHCS_by_sex: header=2; score=41; rows=663; cols=14
+[2026-06-21 15:46:26] [INFO] Validating target 57/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: CMHCS_by_prinicipal_diag [lga_candidate]
+[2026-06-21 15:46:36] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::CMHCS_by_prinicipal_diag: header=2; score=105; rows=663; cols=34
+[2026-06-21 15:46:36] [INFO] Validating target 58/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Admissions_procedures [lga_candidate]
+[2026-06-21 15:46:49] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Admissions_procedures: header=2; score=259; rows=666; cols=84
+[2026-06-21 15:46:49] [INFO] Validating target 59/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Admissions_same_day_renal [lga_candidate]
+[2026-06-21 15:46:57] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Admissions_same_day_renal: header=2; score=19; rows=665; cols=7
+[2026-06-21 15:46:57] [INFO] Validating target 60/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Admissions_prevent_diag_vaccin [lga_candidate]
+[2026-06-21 15:47:04] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Admissions_prevent_diag_vaccin: header=2; score=32; rows=665; cols=11
+[2026-06-21 15:47:04] [INFO] Validating target 61/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Admissions_prevent_diag_acute [lga_candidate]
+[2026-06-21 15:47:14] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Admissions_prevent_diag_acute: header=2; score=96; rows=665; cols=31
+[2026-06-21 15:47:14] [INFO] Validating target 62/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: Admissions_prevent_diag_chronic [lga_candidate]
+[2026-06-21 15:47:23] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::Admissions_prevent_diag_chronic: header=2; score=109; rows=665; cols=35
+[2026-06-21 15:47:23] [INFO] Validating target 63/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_diagnosis [lga_candidate]
+[2026-06-21 15:47:34] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_diagnosis: header=2; score=147; rows=665; cols=47
+[2026-06-21 15:47:34] [INFO] Validating target 64/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_infectious_age [lga_candidate]
+[2026-06-21 15:47:43] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_infectious_age: header=2; score=83; rows=665; cols=27
+[2026-06-21 15:47:43] [INFO] Validating target 65/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_circulatory_age [lga_candidate]
+[2026-06-21 15:47:52] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_circulatory_age: header=2; score=57; rows=665; cols=19
+[2026-06-21 15:47:52] [INFO] Validating target 66/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_respiratory_age [lga_candidate]
+[2026-06-21 15:48:02] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_respiratory_age: header=2; score=96; rows=665; cols=31
+[2026-06-21 15:48:03] [INFO] Validating target 67/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_digestive_age [lga_candidate]
+[2026-06-21 15:48:14] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_digestive_age: header=2; score=83; rows=665; cols=27
+[2026-06-21 15:48:14] [INFO] Validating target 68/68: 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx :: ED_musculoskeletal_age [lga_candidate]
+[2026-06-21 15:48:23] [DEBUG] Header guess for 03_lga_unknown_phn_data_with_component_lgas_xlsx.xlsx::ED_musculoskeletal_age: header=2; score=83; rows=665; cols=27
+[2026-06-21 15:48:23] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\phidu_join_candidate_validation_v10.csv
+[2026-06-21 15:48:23] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\phidu_geography_key_validation_v10.csv
+[2026-06-21 15:48:23] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\phidu_indicator_priority_shortlist_v10.csv
+[2026-06-21 15:48:23] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\phidu_validation_run_audit_v10.csv
+[2026-06-21 15:48:23] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\docs\source_registers\phidu_join_candidate_validation_register_v10.csv
+[2026-06-21 15:48:23] [INFO] Writing methodology note: D:\Good Measure\MentalWellbeingbyGeography\docs\methodology\phidu_join_candidate_validation_note_v10.md
+[2026-06-21 15:48:23] [INFO] PHIDU validation complete.
+[2026-06-21 15:48:23] [INFO] Recommended actions:
+recommended_action
+hold_context_only_no_validated_key_match    64
+hold_context_only                            4
+[2026-06-21 15:48:23] [INFO] Next action: review phidu_join_candidate_validation_v10.csv and phidu_indicator_priority_shortlist_v10.csv before requesting any PHIDU join script.

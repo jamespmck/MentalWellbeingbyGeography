@@ -1,2 +1,3 @@
-﻿source,source_page,download_url,downloaded_path,size_bytes,download_status
-ABS Census DataPacks,https://www.abs.gov.au/census/find-census-data/datapacks,https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_GCP_SA2_for_AUS_short-header.zip,D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs\census_2021_gcp_sa2\2021_GCP_SA2_for_AUS_short-header.zip,42290679,downloaded
+version https://git-lfs.github.com/spec/v1
+oid sha256:9644979036ab89e43b72533d27597174eeaaf5bbe64e4cc870506b3169b1baa5
+size 396

@@ -1,4 +1,3 @@
-"action_type","status","n","total_size_mb"
-"move_file","moved","95","439.975664"
-"move_directory","moved","1","372.165422"
-"remove_empty_dirs","removed_empty_dirs_9","1","1500.445312"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7ebdc7bd17f99ed1457151844771c39ae939ae09693851ab983e3f221117736
+size 188

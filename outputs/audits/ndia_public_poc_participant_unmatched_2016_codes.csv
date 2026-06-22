@@ -1,3 +1,3 @@
-﻿sa2_code_2016,name_2016,participant_count_2016,source_row_count,non_missing_count_rows,suppressed_or_missing_count_rows,sa2_name_2016,sa2_code_2021,sa2_name_2021,ratio_from_to,individual_to_region_quality_indicator,overall_quality_indicator,bmos_null_flag,source_file,source_url,native_bridge_geography,bridge_method,allocation_required_for_counts,_merge,source_family,selected_reference_period,reason,sa3_code_2016,sa3_name_2016,sa3_code_2021,sa3_name_2021
--,Other,444,10,10,0,,,,,,,,participants_by_sa2__2026-03-31__participants_by_sa2__Participants_by_SA2_data.csv,,,,,left_only,participants_by_sa2,2021-12-31,2016 geography code not found in official ABS 2016→2021 bridge,,,,
-,Other,90,10,5,5,,,,,,,,participants_by_sa3__2026-03-31__participants_by_sa3__Participants_by_SA3_data.csv,,,,,left_only,participants_by_sa3,2021-12-31,2016 geography code not found in official ABS 2016→2021 bridge,-,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:e552cf59fd92c3a975566f24c650a5275f14973f8f6cded89f497229ecb8230f
+size 910

@@ -1,3 +1,3 @@
-﻿layer,check_name,value,status,notes
-phn,bridge_found,0,pending,No validated local SA2->PHN bridge found. Source remains pending acquisition/bridge.
-lga,bridge_found,0,pending,No validated local SA2->LGA bridge found. Source remains pending acquisition/bridge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bae19fcc6d73f314e022131daa90a164651651d0a9e54459fc2a17b1dd18680
+size 266

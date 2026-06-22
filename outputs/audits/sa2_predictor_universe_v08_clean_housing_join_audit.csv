@@ -1,8 +1,3 @@
-check_name,value,status,notes
-master_rows_before_join,2472,pass,Expected SA2 row count.
-master_columns_before_join,1890,info,
-derived_housing_feature_rows,2472,pass,One row per SA2 expected.
-master_rows_after_join,2472,pass,Join must not change SA2 row count.
-master_columns_after_join,1921,info,
-duplicate_sa2_rows_after_join,0,pass,
-sa2_rows_with_derived_housing_context,2454,info,Rows with at least one derived housing feature.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af316b1c786aaf95ab5ec756a27b02115de97a965f679c9a0866e08328198072
+size 439

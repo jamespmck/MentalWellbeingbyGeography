@@ -1,11 +1,3 @@
-﻿source_name,status,rows_before,rows_after,source_rows,matched_sa2_rows,unmatched_sa2_rows,notes
-seifa,pass,2472,2472,2472,2472,0,Left joined to SA2 spine; output remains one row per SA2.
-remoteness,pass,2472,2472,2472,2472,0,Left joined to SA2 spine; output remains one row per SA2.
-nsmhw,pass,2472,2472,2472,2472,0,Left joined to SA2 spine; output remains one row per SA2.
-final_integrated_table,pass,,2472,,,,Expected 2472 rows from the current validated ABS SA2 spine.
-final_duplicate_sa2_check,pass,,2472,,,0,Integrated table must remain one row per SA2.
-final_missing_sa2_check,pass,,2472,,,0,SA2 code must not be missing.
-final_column_count,info,,2472,,,,Integrated table has 115 columns.
-final_nsmhw_column_count,pass,,2472,,,,Integrated table has 42 NSMHW columns.
-final_seifa_column_count,pass,,2472,,,,Integrated table has 53 SEIFA columns.
-final_remoteness_column_count,pass,,2472,,,,Integrated table has 7 remoteness columns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4953f2478bac8ec1fe9d14fe88ee7d3e65fcc163fe26a7f579a8803522d1b44a
+size 952

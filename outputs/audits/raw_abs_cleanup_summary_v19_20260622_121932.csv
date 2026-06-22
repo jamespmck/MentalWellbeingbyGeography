@@ -1,5 +1,3 @@
-"action_type","status","n","total_size_mb"
-"move_file","source_missing_skipped","95","0"
-"move_directory","source_missing_skipped","1","0"
-"move_directory","moved","1","115.12479"
-"remove_empty_dirs","removed_empty_dirs_0","1","1500.445312"
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f5c0353e23edb471fdf047c9e4c4f3685d28d5d327f33dcfb99d775db1fabd
+size 246

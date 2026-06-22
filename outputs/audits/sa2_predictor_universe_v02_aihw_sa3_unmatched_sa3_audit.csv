@@ -1,24 +1,3 @@
-﻿sa3_code_2021,sa3_name_2021,state_name_2021,reason_inferred
-89797,Migratory - Offshore - Shipping (ACT),Australian Capital Territory,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-89999,No usual address (ACT),Australian Capital Territory,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-10803,Lord Howe Island,New South Wales,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-19797,Migratory - Offshore - Shipping (NSW),New South Wales,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-19999,No usual address (NSW),New South Wales,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-79797,Migratory - Offshore - Shipping (NT),Northern Territory,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-79999,No usual address (NT),Northern Territory,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-90101,Christmas Island,Other Territories,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-90102,Cocos (Keeling) Islands,Other Territories,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-90103,Jervis Bay,Other Territories,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-90104,Norfolk Island,Other Territories,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-99797,Migratory - Offshore - Shipping (OT),Other Territories,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-99999,No usual address (OT),Other Territories,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-39797,Migratory - Offshore - Shipping (Qld),Queensland,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-39999,No usual address (Qld),Queensland,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-49797,Migratory - Offshore - Shipping (SA),South Australia,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-49999,No usual address (SA),South Australia,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-69797,Migratory - Offshore - Shipping (Tas.),Tasmania,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-69999,No usual address (Tas.),Tasmania,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-29797,Migratory - Offshore - Shipping (Vic.),Victoria,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-29999,No usual address (Vic.),Victoria,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-59797,Migratory - Offshore - Shipping (WA),Western Australia,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
-59999,No usual address (WA),Western Australia,No AIHW SA3 selected-measures row joined. Likely special/non-standard geography or no profile rows.
+version https://git-lfs.github.com/spec/v1
+oid sha256:160b8bc20176413f415801f7dc3d3db366857cd48b9c5649dc4d7c69f497ef44
+size 3532

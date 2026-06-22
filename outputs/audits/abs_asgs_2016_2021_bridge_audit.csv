@@ -1,29 +1,3 @@
-﻿geography,check_name,value,status,notes
-SA2,bridge_available,1,pass,
-SA2,source_file,CG_SA2_2016_SA2_2021.csv,info,
-SA2,bridge_row_count,2504,pass,
-SA2,unique_2016_codes,2310,pass,
-SA2,unique_2021_codes,2473,pass,
-SA2,missing_2016_codes,1,review,
-SA2,missing_2021_codes,2,review,
-SA2,rows_with_ratio,2503,review,
-SA2,ratio_min,2e-07,pass,
-SA2,ratio_max,1.0,pass,
-SA2,source_2016_codes_requiring_allocation,153,review,Counts from 2016 geographies mapping to multiple 2021 geographies must be allocated using ratio_from_to.
-SA2,target_2021_codes_receiving_multiple_2016_sources,27,info,Expected in correspondence files; target 2021 regions can receive population from multiple 2016 regions.
-SA2,source_2016_ratio_sum_below_0_98,0,pass,Review if source ratios do not sum close to 1. Null/BMOS flags may explain small differences.
-SA2,source_2016_ratio_sum_above_1_02,0,pass,Review if source ratios sum materially above 1.
-SA3,bridge_available,1,pass,
-SA3,source_file,CG_SA3_2016_SA3_2021.csv,info,
-SA3,bridge_row_count,367,pass,
-SA3,unique_2016_codes,358,pass,
-SA3,unique_2021_codes,359,pass,
-SA3,missing_2016_codes,1,review,
-SA3,missing_2021_codes,2,review,
-SA3,rows_with_ratio,366,review,
-SA3,ratio_min,1e-07,pass,
-SA3,ratio_max,1.0,pass,
-SA3,source_2016_codes_requiring_allocation,6,review,Counts from 2016 geographies mapping to multiple 2021 geographies must be allocated using ratio_from_to.
-SA3,target_2021_codes_receiving_multiple_2016_sources,6,info,Expected in correspondence files; target 2021 regions can receive population from multiple 2016 regions.
-SA3,source_2016_ratio_sum_below_0_98,0,pass,Review if source ratios do not sum close to 1. Null/BMOS flags may explain small differences.
-SA3,source_2016_ratio_sum_above_1_02,0,pass,Review if source ratios sum materially above 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecf5e97a7f6c641f05037da5158def6716d65cf1cbbb1317fa6e27e0b5e19df8
+size 1823

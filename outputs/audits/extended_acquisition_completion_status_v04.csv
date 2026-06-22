@@ -1,10 +1,3 @@
-﻿source_family,status,master_file,notes
-ndia_public_poc_participants,integrated_sensitivity,D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v03_with_ndia_public_poc_context.parquet,NDIA public POC participant context already joined in v03; exclude from primary model unless sensitivity model.
-phn_bridge_to_sa2,pending_bridge,,No validated local bridge found by this script.
-lga_bridge_to_sa2,pending_bridge,,No validated local bridge found by this script.
-lhd_state_health_districts,pending_acquisition_state_specific,,Do not join until state-specific boundaries or correspondences are validated. Names and boundary systems differ by jurisdiction.
-dss_social_security_sa2,pending_acquisition_high_priority,,Prioritise direct SA2 2021 resources. Select a reference period close to 2021-12-31 or 2022-06-30. Avoid postcode/electorate unless bridged.
-housing_homelessness,pending_acquisition_review_geography,,Use direct SA2/SA3 Census homelessness or housing-stress data if downloadable. AIHW SHS is usually service-system data and may be state/jurisdiction or service-region level.
-phidu_social_health_atlas,pending_acquisition_bridge_required,,Do not join to SA2 until geography is confirmed. LGA/PHN workbooks can be held as context if LGA/PHN bridge is validated.
-aedc_child_development,pending_acquisition_bridge_required,,Audit geography first. AEDC community boundaries are not the same as SA2. Do not join until a correspondence or stable aggregation rule exists.
-carer_disability_psychosocial_support_demand,pending_acquisition_review,,"Public NDIA participant counts are already integrated as POC. Further psychosocial, carer and disability-demand layers need direct SA2/SA3 or validated bridge."
+version https://git-lfs.github.com/spec/v1
+oid sha256:57eda1aada0a709b4bf7f31df184afa630d158d850ec9b6716601b514389374c
+size 1762

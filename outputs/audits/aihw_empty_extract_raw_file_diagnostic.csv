@@ -1,4 +1,3 @@
-﻿file_name,row_count,column_count,present_expected_columns,columns,year_values,topic_values,measure_values,metric_values,geographic_area_name_values,geographic_area_type_values,error
-aihw_regional_profiles_sa3_80101_belconnen_2021_22.csv,,,,,,,,,,,No columns to parse from file
-aihw_regional_profiles_sa3_80103_canberra_east_2021_22.csv,,,,,,,,,,,No columns to parse from file
-aihw_regional_profiles_sa3_80104_gungahlin_2021_22.csv,,,,,,,,,,,No columns to parse from file
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d1ee3fadec52b804430e86e92eb74db64796fdcbbf221a4c30e27be6cbf353
+size 478

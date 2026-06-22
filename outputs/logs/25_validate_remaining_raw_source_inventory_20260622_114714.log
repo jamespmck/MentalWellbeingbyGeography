@@ -1,0 +1,55 @@
+[2026-06-22 11:47:14] [INFO] Remaining raw source validation v14
+[2026-06-22 11:47:14] [INFO] Project root: D:\Good Measure\MentalWellbeingbyGeography
+[2026-06-22 11:47:14] [INFO] Log path: D:\Good Measure\MentalWellbeingbyGeography\outputs\logs\25_validate_remaining_raw_source_inventory_20260622_114714.log
+[2026-06-22 11:47:14] [INFO] Raw file records to validate: 41
+[2026-06-22 11:47:14] [INFO] [1/41] Inspecting aedc_community_profiles_page.html
+[2026-06-22 11:47:14] [INFO] [2/41] Inspecting aedc_accessing_data_page.html
+[2026-06-22 11:47:14] [INFO] [3/41] Inspecting aedc_2024_results_page.html
+[2026-06-22 11:47:14] [INFO] [4/41] Inspecting abs_estimating_homelessness_latest_release.html
+[2026-06-22 11:47:14] [INFO] [5/41] Inspecting abs_estimating_homelessness_2021_data_cube_005.xlsx
+[2026-06-22 11:47:14] [INFO] [6/41] Inspecting abs_estimating_homelessness_2021_data_cube_006.xlsx
+[2026-06-22 11:47:14] [INFO] [7/41] Inspecting abs_tablebuilder_estimating_homelessness_page.html
+[2026-06-22 11:47:14] [INFO] [8/41] Inspecting aihw_shs_annual_report_2024_25_data_page.html
+[2026-06-22 11:47:14] [INFO] [9/41] Inspecting aihw_regional_activity_data_page.html
+[2026-06-22 11:47:14] [INFO] [10/41] Inspecting aihw_mental_health_data_tables_page.html
+[2026-06-22 11:47:14] [INFO] [11/41] Inspecting aihw_mbs_gp_allied_specialist_geography_page.html
+[2026-06-22 11:47:14] [INFO] [12/41] Inspecting ndis_explore_data_page.html
+[2026-06-22 11:47:14] [INFO] [13/41] Inspecting nsw_health_lhd_page.html
+[2026-06-22 11:47:14] [INFO] [14/41] Inspecting aedc_child_development__001__download_xlsx_16_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [15/41] Inspecting aedc_child_development__002__download_xlsx_20_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [16/41] Inspecting aedc_child_development__003__download_xlsx_194_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [17/41] Inspecting aedc_child_development__004__download_xlsx_80_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [18/41] Inspecting abs_homelessness_census__001__download_xlsx_178_37_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [19/41] Inspecting abs_homelessness_census__002__download_xlsx_132_39_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [20/41] Inspecting abs_homelessness_census__003__download_xlsx_120_45_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [21/41] Inspecting abs_homelessness_census__004__download_xlsx_83_6_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [22/41] Inspecting abs_homelessness_census__005__download_xlsx_320_14_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [23/41] Inspecting abs_homelessness_census__006__download_xlsx_121_58_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [24/41] Inspecting abs_homelessness_census__007__download_xlsx_90_67_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [25/41] Inspecting abs_homelessness_census__008__download_xlsx_48_34_kb.xlsx
+[2026-06-22 11:47:14] [INFO] [26/41] Inspecting abs_homelessness_census_tablebuilder__001__download_xls_412_kb.xls
+[2026-06-22 11:47:14] [INFO] [27/41] Inspecting aihw_specialist_homelessness_services__001__educational_resources.download
+[2026-06-22 11:47:14] [INFO] [28/41] Inspecting aihw_specialist_homelessness_services__002__save_web_report.pdf
+[2026-06-22 11:47:14] [INFO] [29/41] Inspecting aihw_specialist_homelessness_services__003__embedded_url.pdf
+[2026-06-22 11:47:14] [INFO] [30/41] Inspecting aihw_mental_health_regional_activity__001__data_tables_community_mental_health_care_services_2023_24_zip_938kb.zip
+[2026-06-22 11:47:14] [INFO] [31/41] Inspecting aihw_mental_health_regional_activity__002__data_tables_medicare_mental_health_services_2024_25_zip_716kb.zip
+[2026-06-22 11:47:14] [INFO] [32/41] Inspecting aihw_mental_health_regional_activity__003__data_tables_mental_health_related_prescriptions_2024_25_zip_857kb.zip
+[2026-06-22 11:47:14] [INFO] [33/41] Inspecting aihw_mental_health_regional_activity__004__data_tables_mental_health_services_provided_in_emergency_departments_states_and_territories_2023_24_zip_402kb.zip
+[2026-06-22 11:47:14] [INFO] [34/41] Inspecting aihw_mental_health_regional_activity__005__data_tables_mental_health_workforce_2024_zip_69kb.zip
+[2026-06-22 11:47:14] [INFO] [35/41] Inspecting aihw_mental_health_regional_activity__006__data_tables_admitted_patient_care_2023_24_zip_457kb.zip
+[2026-06-22 11:47:14] [INFO] [36/41] Inspecting aihw_mental_health_regional_activity__007__educational_resources.download
+[2026-06-22 11:47:14] [INFO] [37/41] Inspecting aihw_mental_health_data_tables__001__educational_resources.download
+[2026-06-22 11:47:14] [INFO] [38/41] Inspecting aihw_mbs_primary_care_geography__001__educational_resources.download
+[2026-06-22 11:47:14] [INFO] [39/41] Inspecting aihw_mbs_primary_care_geography__002__save_web_report.pdf
+[2026-06-22 11:47:14] [INFO] [40/41] Inspecting aihw_mbs_primary_care_geography__003__embedded_url.pdf
+[2026-06-22 11:47:14] [INFO] [41/41] Inspecting state_health_geography_inventory__001__wall_map_of_local_health_districts.pdf
+[2026-06-22 11:47:14] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\remaining_raw_source_file_inventory_v14.csv
+[2026-06-22 11:47:14] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\remaining_raw_workbook_sheet_inventory_v14.csv
+[2026-06-22 11:47:14] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\remaining_raw_zip_member_inventory_v14.csv
+[2026-06-22 11:47:14] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\remaining_raw_source_validation_summary_v14.csv
+[2026-06-22 11:47:14] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\remaining_raw_source_failed_register_rows_v14.csv
+[2026-06-22 11:47:14] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\docs\source_registers\remaining_raw_source_validation_register_v14.csv
+[2026-06-22 11:47:14] [INFO] Writing methodology note: D:\Good Measure\MentalWellbeingbyGeography\docs\methodology\remaining_raw_source_validation_note_v14.md
+[2026-06-22 11:47:14] [INFO] Remaining raw source validation complete.
+[2026-06-22 11:47:14] [INFO] Summary rows: 9
+[2026-06-22 11:47:14] [INFO] Failed acquisition rows carried forward: 1

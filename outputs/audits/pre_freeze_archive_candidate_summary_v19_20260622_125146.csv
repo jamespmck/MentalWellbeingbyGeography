@@ -1,7 +1,3 @@
-level,priority,recommendation,n,size_mb
-archive_now,low,archive,8,0.056916
-archive_now_after_latest_confirmed,low,archive,30,11.403095
-archive_now_or_keep_as_page_snapshot,low,review_archive,3,0.420777
-duplicate_review,medium,review_archive,22,10.645661
-keep_active_for_now,low,keep_active,2,18.39353
-optional_archive_after_confirming_final_script,low,review_archive,3,0.101834
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d736b3f832f7a8d45ca9a299854132f258a05ba6f35d03ab83bb50495ffcc79
+size 385

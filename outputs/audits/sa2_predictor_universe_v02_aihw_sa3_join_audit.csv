@@ -1,15 +1,3 @@
-﻿check_name,value,status,notes
-master_rows_before_join,2472,pass,Expected current SA2 master row count.
-master_columns_before_join,1796,info,
-aihw_source_rows,335,pass,Expected 335 SA3s with AIHW selected-measure rows from completed 2021-22 scrape.
-aihw_source_unique_sa3,335,pass,AIHW selected-measures table should have one row per SA3.
-aihw_source_duplicate_sa3_rows,0,pass,
-master_unique_sa3,358,info,"Current SA2 spine includes all SA3s, including special/non-standard geographies."
-matched_sa2_rows,2449,info,SA2 rows whose SA3 matched an AIHW SA3 profile row.
-unmatched_sa2_rows,23,review,Expected for special/non-standard SA3s or SA3s with no AIHW profile rows.
-matched_unique_sa3,335,pass,
-unmatched_unique_sa3,23,review,Review unmatched SA3 audit.
-master_rows_after_join,2472,pass,Join must not change SA2 row count.
-master_columns_after_join,1830,info,
-aihw_columns_added,34,info,
-duplicate_sa2_rows_after_join,0,pass,
+version https://git-lfs.github.com/spec/v1
+oid sha256:534f711bca14483b8158a48d024df26adbc7853e427dc38b035cc2690a3dd7e0
+size 947

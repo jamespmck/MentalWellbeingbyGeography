@@ -1,24 +1,3 @@
-source_column_name,matched_concept,output_column_name,selected_reference_period,recipient_total_selected_period,sa2_2016_non_missing_count
-ABSTUDY (Living allowance),abstudy,dss_sa2_2016_abstudy_living_allowance_recipients,2021-12-01,9537.0,2292
-ABSTUDY (Non-living allowance),abstudy,dss_sa2_2016_abstudy_non_living_allowance_recipients,2021-12-01,19259.0,2292
-Age Pension,age_pension,dss_sa2_2016_age_pension_recipients,2021-12-01,2470360.0,2292
-Austudy,austudy,dss_sa2_2016_austudy_recipients,2021-12-01,32439.0,2292
-Carer Allowance,carer_allowance,dss_sa2_2016_carer_allowance_recipients,2021-12-01,622498.0,2292
-Carer Allowance (Child Health Care Card only),carer_allowance,dss_sa2_2016_carer_allowance_child_health_care_card_only_recipients,2021-12-01,10144.0,2292
-Carer Payment,carer_payment,dss_sa2_2016_carer_payment_recipients,2021-12-01,300957.0,2292
-Commonwealth Seniors Health Card,commonwealth_seniors_health_card,dss_sa2_2016_commonwealth_seniors_health_card_recipients,2021-12-01,436786.0,2292
-Disability Support Pension,disability_support_pension,dss_sa2_2016_disability_support_pension_recipients,2021-12-01,757308.0,2292
-Family Tax Benefit A,family_tax_benefit,dss_sa2_2016_family_tax_benefit_a_recipients,2021-12-01,1399549.0,2292
-Family Tax Benefit B,family_tax_benefit,dss_sa2_2016_family_tax_benefit_b_recipients,2021-12-01,1081808.0,2292
-Health Care Card,health_care_card,dss_sa2_2016_health_care_card_recipients,2021-12-01,1405608.0,2292
-Newstart Allowance / Jobseeker Payment,jobseeker,dss_sa2_2016_newstart_allowance_jobseeker_payment_recipients,2021-12-01,937430.0,2292
-Low Income Card,low_income_card,dss_sa2_2016_low_income_card_recipients,2021-12-01,149165.0,2292
-Parenting Payment Partnered,parenting_payment,dss_sa2_2016_parenting_payment_partnered_recipients,2021-12-01,75798.0,2292
-Parenting Payment Single,parenting_payment,dss_sa2_2016_parenting_payment_single_recipients,2021-12-01,234068.0,2292
-Pension Concession Card,pensioner_concession_card,dss_sa2_2016_pension_concession_card_recipients,2021-12-01,4345484.0,2292
-Special Benefit,special_benefit,dss_sa2_2016_special_benefit_recipients,2021-12-01,11169.0,2292
-Youth Allowance (other),youth_allowance,dss_sa2_2016_youth_allowance_other_recipients,2021-12-01,90835.0,2292
-Youth Allowance (student and apprentice),youth_allowance,dss_sa2_2016_youth_allowance_student_and_apprentice_recipients,2021-12-01,145450.0,2292
-Commonwealth Rent Assistance,commonwealth_rent_assistance,dss_sa2_2016_commonwealth_rent_assistance_recipients,2021-12-01,1416279.0,2292
-Wife Pension (Partner on Age Pension),age_pension,dss_sa2_2016_wife_pension_partner_on_age_pension_recipients,2021-12-01,0.0,2292
-Wife Pension (Partner on Disability Support Pension),disability_support_pension,dss_sa2_2016_wife_pension_partner_on_disability_support_pension_recipients,2021-12-01,0.0,2292
+version https://git-lfs.github.com/spec/v1
+oid sha256:552ddd047249c1b421c1536d4f4481c9cd34614139849197393d309f8e0f01d6
+size 2875

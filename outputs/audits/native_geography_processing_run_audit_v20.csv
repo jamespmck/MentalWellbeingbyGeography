@@ -1,9 +1,3 @@
-metric,value
-source_records_found,457
-processed_copy_audit_rows,12
-raw_extraction_audit_rows,947
-total_audit_rows,959
-processed_native_table_rows,887
-failed_rows,0
-unknown_review_tables,103
-native_table_index_rows,478
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d7bd537a678018122f0a1c98e7c6a758edbe31a81470904663e7b5c84a313b
+size 227

@@ -1,0 +1,35 @@
+[2026-06-21 13:50:20] [INFO] PHIDU Social Health Atlas inventory v09
+[2026-06-21 13:50:20] [INFO] Project root: D:\Good Measure\MentalWellbeingbyGeography
+[2026-06-21 13:50:20] [INFO] Log path: D:\Good Measure\MentalWellbeingbyGeography\outputs\logs\19_inventory_phidu_social_health_atlas_20260621_135020.log
+[2026-06-21 13:50:20] [INFO] Reading base master: D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v08_with_clean_housing_context.parquet
+[2026-06-21 13:50:20] [INFO] Base master rows: 2472; columns: 1921
+[2026-06-21 13:50:20] [INFO] Requested geography priorities: lga, pha, phn
+[2026-06-21 13:50:20] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/social-health-atlases/data
+[2026-06-21 13:50:21] [INFO] Discovered 274 links from https://phidu.torrens.edu.au/social-health-atlases/data
+[2026-06-21 13:50:21] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/social-health-atlases/indicators-and-notes-on-the-data/social-health-atlases-of-australia-contents
+[2026-06-21 13:50:21] [INFO] Discovered 735 links from https://phidu.torrens.edu.au/social-health-atlases/indicators-and-notes-on-the-data/social-health-atlases-of-australia-contents
+[2026-06-21 13:50:21] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/social-health-atlases/graphs/monitoring-inequality-in-australia/whole-population/inequality-graphs-primary-health-networks
+[2026-06-21 13:50:21] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/social-health-atlases/topic-atlas/covid-vaccinations-nsw
+[2026-06-21 13:50:22] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/pha-overview
+[2026-06-21 13:50:22] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/pha-list-2021
+[2026-06-21 13:50:22] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/primary-health-network-map
+[2026-06-21 13:50:23] [DEBUG] Could not crawl candidate page https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/primary-health-network-map: HTTP Error 500: Internal Server Error
+[2026-06-21 13:50:23] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/local-government-area-map
+[2026-06-21 13:50:23] [DEBUG] Could not crawl candidate page https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/local-government-area-map: HTTP Error 500: Internal Server Error
+[2026-06-21 13:50:23] [DEBUG] Fetching HTML: https://phidu.torrens.edu.au/"/current/data/sha-aust/notes/phidu_data_sources_notes.pdf
+[2026-06-21 13:50:23] [DEBUG] Could not crawl candidate page https://phidu.torrens.edu.au/"/current/data/sha-aust/notes/phidu_data_sources_notes.pdf: HTTP Error 500: Internal Server Error
+[2026-06-21 13:50:23] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\phidu_source_candidate_audit_v09.csv
+[2026-06-21 13:50:23] [INFO] Downloading PHIDU candidate 1/10: https://phidu.torrens.edu.au/current/data/sha-aust/pha/phidu_data_pha_health_status_aust.xlsx
+[2026-06-21 13:50:32] [INFO] Downloading PHIDU candidate 2/10: https://phidu.torrens.edu.au/current/data/sha-aust/phn_pha_parts/phidu_data_phn_pha_parts_aust.xlsx
+[2026-06-21 13:50:47] [INFO] Downloading PHIDU candidate 3/10: https://phidu.torrens.edu.au/current/data/sha-aust/phn_lga_parts/phidu_data_phn_lga_aust.xlsx
+[2026-06-21 13:50:55] [INFO] Downloading PHIDU candidate 4/10: https://phidu.torrens.edu.au/current/data/sha-aust/pha/phidu_data_pha_use_provision_health_aust.xlsx
+[2026-06-21 13:51:02] [INFO] Downloading PHIDU candidate 5/10: https://phidu.torrens.edu.au/current/data/sha-aust/pha/phidu_data_pha_demographic_social_aust.xlsx
+[2026-06-21 13:51:06] [INFO] Downloading PHIDU candidate 6/10: https://phidu.torrens.edu.au/current/data/sha-aust/quintiles-phn/phidu_data_phn_quintiles_aust.xlsx
+[2026-06-21 13:51:10] [INFO] Downloading PHIDU candidate 7/10: https://phidu.torrens.edu.au/current/data/atsi-sha/phidu_atsi_data_phn_aust.xlsx
+[2026-06-21 13:51:13] [INFO] Downloading PHIDU candidate 8/10: https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/primary-health-network-map
+[2026-06-21 13:51:13] [WARNING] PHIDU candidate failed: https://phidu.torrens.edu.au/help-and-information/help-guides-and-faq/geographical-structures/primary-health-network-map :: HTTP Error 500: Internal Server Error
+[2026-06-21 13:51:13] [INFO] Downloading PHIDU candidate 9/10: https://phidu.torrens.edu.au/current/data/sha-topics/Indigenous-status-comparison/phidu_Indigenous_status_comparison_data_quintiles_aust.xlsx
+[2026-06-21 13:51:14] [INFO] Downloading PHIDU candidate 10/10: https://phidu.torrens.edu.au/current/data/sha-aust/quintiles/phidu_data_quintiles_aust.xlsx
+[2026-06-21 13:51:17] [INFO] Writing CSV: D:\Good Measure\MentalWellbeingbyGeography\outputs\audits\phidu_download_audit_v09.csv
+[2026-06-21 13:51:18] [INFO] Inspecting workbook: 01_pha_health_status_disability_carers_deaths_health_status_disease_prevention_disability_carers_and_deaths.xlsx; sheets: 35
+[2026-06-21 13:51:54] [INFO] Inspecting workbook: 02_pha_unknown_phn_data_with_component_phas_xlsx.xlsx; sheets: 101

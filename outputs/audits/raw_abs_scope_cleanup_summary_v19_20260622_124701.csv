@@ -1,9 +1,3 @@
-﻿"category","status","n","total_size_mb"
-"non_core_geography","dry_run","16","122.01103"
-"electoral_boundaries","dry_run","7","114.488854"
-"outside_2021_scope","dry_run","18","139.006044"
-"electoral_concordances","dry_run","9","0.288625"
-"non_core_concordance","dry_run","14","15.271131"
-"sa1_linking_not_active","dry_run","1","2.359509"
-"electoral_sa1_recodes","dry_run","4","32.127827"
-"seifa_non_active_extract","dry_run","17","114.765422"
+version https://git-lfs.github.com/spec/v1
+oid sha256:fff46d539f6874ce3a83ac726c5e7531e864c623bd315d41a3999887b30cb39f
+size 454

@@ -1,9 +1,3 @@
-check_name,value,status,notes
-base_master_file,D:\Good Measure\MentalWellbeingbyGeography\data\processed\integrated\sa2_predictor_universe_v05_with_phn_lga_context.parquet,info,
-master_rows_before_join,2472,pass,Expected SA2 row count.
-master_columns_before_join,1862,info,
-dss_sa2_2021_source_rows,2454,info,Allocated DSS SA2 2021 rows.
-master_rows_after_join,2472,pass,Join must not change SA2 row count.
-master_columns_after_join,1888,info,
-duplicate_sa2_rows_after_join,0,pass,
-sa2_rows_with_dss_context,2454,info,Rows with joined allocated DSS payment context.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ab734c607f4e0e1e9decb0d7b624744996b457a65ac0bc6f2164ecb564896d
+size 575

@@ -1,2 +1,3 @@
-﻿run_timestamp,source_family,publisher,source_name,url,acquisition_mode,native_geography_expected,reference_period_expected,recommended_scope,priority,download_status,http_status,content_type,bytes_written,sha256,raw_file_path,discovered_link_count,licence_or_access_notes,join_status,notes,raw_file_path_before_cleanup_reconcile,path_reconciliation_status,file_exists_after_reconcile,raw_layer_after_reconcile,bytes_after_reconcile,sha256_after_reconcile
-2026-06-22 10:48:34,state_health_geography_inventory,Queensland Health,Queensland Hospital and Health Services page,https://www.health.qld.gov.au/system-governance/health-system/hhs,page_discovery,HHS; Queensland only; bridge required before SA2 use,current web page,raw_inventory_only_state_specific,low,failed,403,,0,,,0,State-specific source. Use only for state health geography inventory unless a national-equivalent boundary source is identified.,not_joined_source_access_failed_or_manual_required,HTTPError: HTTP Error 403: Forbidden,,blank_raw_file_path,0,,0,
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd418666ada85cdf113c65798687db730fb22bd9b6fcb228b7c39e845acddfd0
+size 1027

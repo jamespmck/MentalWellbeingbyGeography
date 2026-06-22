@@ -1,3 +1,3 @@
-﻿timestamp_utc,url,local_path,status,size_bytes,error,geography,source_role
-2026-06-19T05:07:12.923828+00:00,https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/correspondences/CG_SA2_2016_SA2_2021.csv,D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs\correspondences\asgs_2016_to_2021_exact\CG_SA2_2016_SA2_2021.csv,already_available,172793,,SA2,official_abs_exact_correspondence
-2026-06-19T05:07:13.346227+00:00,https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/correspondences/CG_SA3_2016_SA3_2021.csv,D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs\correspondences\asgs_2016_to_2021_exact\CG_SA3_2016_SA3_2021.csv,downloaded,21955,,SA3,official_abs_exact_correspondence
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff053babf9771f68e7ef7f39b4618c47349b02a2542fc9eccb08b38e40452395
+size 875

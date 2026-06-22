@@ -1,9 +1,3 @@
-﻿check_name,value,status,notes
-base_master_rows,2472,pass,Expected SA2 row count for current project spine.
-base_master_columns,1888,info,v06 source master columns.
-existing_housing_related_columns_in_master,97,info,"Housing-related columns already present, mostly from Census QuickStats."
-external_housing_resource_downloaded,0,review,External MAID/RAID source was not downloaded. Review source candidate and selection audits.
-master_rows_after_join,2472,pass,Fallback must not change SA2 row count.
-master_columns_after_join,1890,info,Only fallback status fields added.
-duplicate_sa2_rows_after_join,0,pass,
-sa2_rows_with_housing_affordability_context,2472,info,Rows retain existing master housing context where present; no external MAID/RAID columns joined.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c40e16e4720aad1dc163c456cc31c7923dab2694ffe785fba4dfdfa791debba
+size 772

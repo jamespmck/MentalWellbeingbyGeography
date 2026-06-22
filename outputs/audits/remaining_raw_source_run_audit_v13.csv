@@ -1,8 +1,3 @@
-check_name,value,status,notes
-source_specs_total,14,info,Curated remaining source candidates.
-downloaded_sources,0,info,Direct/page source files downloaded this run.
-cached_existing_sources,13,info,Existing cached files reused.
-failed_sources,1,review,Failed sources may require manual download or URL revision.
-candidate_download_links_discovered,28,info,Download-like links discovered from cached pages.
-candidate_downloads_attempted,28,info,Only attempted if --download-discovered was supplied.
-raw_join_status,not_joined,pass,Script performs raw acquisition/register only.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd4e883fdd5644aff63f1d262d256e96712692435523f4dbfc14ef6d63cd65e
+size 585

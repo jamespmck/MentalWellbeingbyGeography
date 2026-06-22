@@ -1,10 +1,3 @@
-﻿check_name,value,status,notes
-master_rows_before_join,2472,pass,Expected SA2 row count for current master.
-master_columns_before_join,1830,info,
-ndia_sa2_source_rows,2310,info,2021 SA2 rows with allocated NDIA public POC participant counts.
-ndia_sa3_source_rows,333,info,2021 SA3 rows with allocated NDIA public POC participant counts.
-master_rows_after_join,2472,pass,Join must not change SA2 row count.
-master_columns_after_join,1852,info,
-duplicate_sa2_rows_after_join,0,pass,
-sa2_rows_with_ndia_sa2_poc_count,2310,info,Rows with joined SA2-level NDIA public POC participant counts.
-sa2_rows_with_ndia_sa3_poc_count,2446,info,Rows with joined SA3-level NDIA public POC participant counts repeated across SA2 rows.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b0cc4f76c94a95ebacd9c0283542549e17a8d2a3f7efe577ec16135b5cb0014
+size 730

@@ -1,35 +1,3 @@
-﻿column_name,non_missing_count,missing_count,missing_pct,source_family,native_geography,notes
-aihw_medicare_benefit_paid_per_capita_all_providers_2021_22,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_benefit_paid_per_capita_all_providers_2021_22_publication_status,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_benefit_paid_per_capita_all_providers_2021_22_source_value,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_fee_charged_per_capita_all_providers_2021_22,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_fee_charged_per_capita_all_providers_2021_22_publication_status,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_fee_charged_per_capita_all_providers_2021_22_source_value,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_patients_rate_per_10000_all_providers_2021_22,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_patients_rate_per_10000_all_providers_2021_22_publication_status,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_patients_rate_per_10000_all_providers_2021_22_source_value,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_services_rate_per_10000_all_providers_2021_22,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_services_rate_per_10000_all_providers_2021_22_publication_status,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_medicare_services_rate_per_10000_all_providers_2021_22_source_value,2417,55,2.225,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_admitted_hospitalisations_rate_per_10000_2021_22,2440,32,1.294,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_community_care_contacts_rate_per_10000_2021_22,2440,32,1.294,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_emergency_department_presentations_rate_per_10000_2021_22,2440,32,1.294,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_benefit_subsidised_per_capita_2021_22,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_benefit_subsidised_per_capita_2021_22_publication_status,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_benefit_subsidised_per_capita_2021_22_source_value,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_dispensed_rate_per_10000_2021_22,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_dispensed_rate_per_10000_2021_22_publication_status,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_dispensed_rate_per_10000_2021_22_source_value,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_patients_rate_per_10000_2021_22,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_patients_rate_per_10000_2021_22_publication_status,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_prescriptions_patients_rate_per_10000_2021_22_source_value,2442,30,1.214,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_admitted_hospitalisations_rate_per_10000_2021_22_publication_status,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_admitted_hospitalisations_rate_per_10000_2021_22_source_value,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_community_care_contacts_rate_per_10000_2021_22_publication_status,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_community_care_contacts_rate_per_10000_2021_22_source_value,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_emergency_department_presentations_rate_per_10000_2021_22_publication_status,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_emergency_department_presentations_rate_per_10000_2021_22_source_value,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_primary_measures_complete_numeric_2021_22,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-aihw_primary_measures_numeric_count_2021_22,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-has_aihw_sa3_regional_profile_extract,2449,23,0.93,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
-source_aihw_sa3_regional_profiles_2021_22_present_flag,2472,0,0.0,aihw_sa3_regional_profiles_2021_22,SA3,SA3-level value repeated across SA2 rows in same SA3 after join.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae70db58595813d7ac2d8285d4e8eaa66fe1b264f34fecc2bd82dbf391ef881b
+size 6339

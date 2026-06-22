@@ -1,2 +1,3 @@
-run_timestamp,project_root,target_dir,target_exists,file_count,folder_count,total_size_bytes,total_size_mb,duplicate_groups,duplicate_file_rows,workbook_files,zip_files,html_files,cleanup_candidate_rows,status,sibling_abs_candidates
-20260622_125032,D:\Good Measure\MentalWellbeingbyGeography,D:\Good Measure\MentalWellbeingbyGeography\data\raw\abs,1,25,4,109731491,104.648105,0,0,15,4,0,25,pass_audit_written,
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d00739aeaeec47cf0dbc648b8bcde2859d79d3fccc4b9c39652b4e7a41bb6ee
+size 412
